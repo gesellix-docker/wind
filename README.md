@@ -1,0 +1,4 @@
+wind
+====
+
+wind = wetty + dind
