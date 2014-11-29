@@ -2,7 +2,7 @@
 
 I'm sorry - the wind caught it.
 
-[![Gattaca screenshot](the-wind-caught-it/gattaca.jpg)](http://www.imdb.com/title/tt0119177/quotes?item=qt0295072)
+[![Gattaca screenshot](https://raw.githubusercontent.com/gesellix-docker/wind/master/the-wind-caught-it/gattaca.jpg)](http://www.imdb.com/title/tt0119177/quotes?item=qt0295072)
 
 ##About
 
